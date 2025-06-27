@@ -22,9 +22,10 @@
 ### 🙋 About My Avatar & Username
 
 > My username `LisaHusband` and profile picture are a tribute to [**LISA**](https://www.youtube.com/watch?v=vqLYx-jRkTg), a global icon and 2021's No.1 on TC Candler's “100 Most Beautiful Faces” list.  
-> I'm not LGBTQ — I'm a straight guy who simply admires her talent, charisma, and beauty.  
-> This name and image represent both my aesthetic appreciation and the kind of confident, creative presence I aspire to.  
+> I'm not LGBTQ — I'm a straight guy who simply admires her charisma, and beauty.  
+> This name and image reflect my personal dream and appreciation — nothing more.  
 > Every time I see this picture, it lifts my spirits, and despite any misunderstandings, I am unwilling to change it.
+
 ---
 
 ## 🧰 Tech Stack
