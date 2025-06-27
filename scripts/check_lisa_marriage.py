@@ -65,7 +65,6 @@ if __name__ == '__main__':
                 print("README already up to date")
         else:
             print("No marriage news detected")
-        raise Exception
     except Exception as e:
         error_message = f"[{datetime.datetime.now().isoformat()}] An error occurred: {e}"
         print(error_message)
