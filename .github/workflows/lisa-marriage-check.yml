@@ -1,0 +1,32 @@
+name: Detect Lisa Marriage News
+
+on:
+  schedule:
+    - cron: '0 3 * * *'  # 每天 UTC 3 点运行一次（北京时间上午11点）
+  workflow_dispatch:     # 也支持手动触发
+
+jobs:
+  check-news:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: pip install requests beautifulsoup4
+
+      - name: Run Lisa marriage checker
+        run: python scripts/check_lisa_marriage.py
+
+      - name: Commit changes
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add README.md
+          git commit -m "Auto-update: Lisa marriage news detected" || echo "No changes to commit"
+          git push
