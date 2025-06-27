@@ -23,10 +23,13 @@ jobs:
       - name: Run Lisa marriage checker
         run: python scripts/check_lisa_marriage.py
 
-      - name: Commit changes
+      - name: Commit and Push changes
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
         run: |
-          git config --global user.name 'github-actions[bot]'
-          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git config user.name "auto-updater"
+          git config user.email "updater@github.com"
           git add README.md
           git commit -m "Auto-update: Lisa marriage news detected" || echo "No changes to commit"
-          git push
+          git push https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}.git HEAD:main
+
