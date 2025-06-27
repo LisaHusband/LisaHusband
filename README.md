@@ -93,13 +93,13 @@
 ## 🌟 Featured Projects
 
 - 🎴 [Greeting Card Generator](https://github.com/LisaHusband/greeting-card)  
-  在线贺卡生成网站，支持背景特效、自定义文字、音乐与链接分享。
+  A web-based Valentine’s Day greeting card platform supporting custom text, color themes, visual effects, background music, and unique shareable links.
 
 - 🎶 [Lyrics Scraper](https://github.com/LisaHusband/Crawling)  
-  多线程爬虫工具，自动获取歌词并分歌手归档存储，内置 GUI 界面。
+  A multi-threaded lyric crawler with a PyQt6 GUI. Automatically retrieves and stores lyrics categorized by artist name.
 
 - 📱 [BMI Calculator](https://github.com/LisaHusband/BMI_Calculator)  
-  简易 Android 应用，输入身高体重即可计算并显示 BMI 指数。
+  A lightweight Android app that calculates and displays BMI based on user-input height and weight.
 
 ---
 
@@ -111,4 +111,5 @@
 
 ---
 
-> 🌱 *“Always learning. Always building.”*
+> 💡 *“Built with logic. Inspired by intuition.”*
+
