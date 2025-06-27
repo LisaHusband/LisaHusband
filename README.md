@@ -10,9 +10,6 @@
   <a href="https://blog.csdn.net/weixin_49526058?type=blog"><img src="https://img.shields.io/badge/CSDN-Blog-orange?logo=csdn&style=flat"></a>
 </p>
 
----
-
-
 
 ## 🚀 About Me
 
@@ -21,6 +18,13 @@
 - 🤖 Passionate about AI/LLM (ChatGPT, Gemini) and automation  
 - 🎯 Independent contractor delivering custom tools & websites
 
+
+### 🙋 About My Avatar & Username
+
+> My username `LisaHusband` and profile picture are a tribute to [**LISA**](https://www.tccandler.com/2021/12/14/the-100-most-beautiful-faces-of-2021/), a global icon and 2021's No.1 on TC Candler's “100 Most Beautiful Faces” list.  
+> I'm not LGBTQ — I'm a straight guy who simply admires her talent, charisma, and beauty.  
+> This name and image represent both my aesthetic appreciation and the kind of confident, creative presence I aspire to.  
+> Every time I see this picture, it lifts my spirits, and despite any misunderstandings, I am unwilling to change it.
 ---
 
 ## 🧰 Tech Stack
@@ -115,14 +119,7 @@
 
 > 💡 *“Built with logic. Inspired by intuition.”*
 
----
 
-### 🙋 About My Avatar & Username
-
-> My username `LisaHusband` and profile picture are a tribute to [**LISA**](https://www.tccandler.com/2021/12/14/the-100-most-beautiful-faces-of-2021/), a global icon and 2021's No.1 on TC Candler's “100 Most Beautiful Faces” list.  
-> I'm not LGBTQ — I'm a straight guy who simply admires her talent, charisma, and beauty.  
-> This name and image represent both my aesthetic appreciation and the kind of confident, creative presence I aspire to.  
-> Every time I see this picture, it lifts my spirits, and despite any misunderstandings, I am unwilling to change it.
 
 
 
