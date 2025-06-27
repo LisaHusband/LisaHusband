@@ -14,8 +14,8 @@ def lisa_married_keywords_found():
     soup = BeautifulSoup(response.text, 'html.parser')
     news_text = soup.get_text().lower()
 
-    # 打印调试用
-    print(news_text)
+    # # 打印调试用
+    # print(news_text)
 
     # 关键词：触发替换的积极关键词
     positive_keywords = ['lisa married', 'lisa wedding', 'lisa announces marriage', 'blackpink lisa husband']
