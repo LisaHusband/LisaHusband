@@ -100,7 +100,7 @@
 ## 🌟 Featured Projects
 
 - 🧠 [LeetCode Solutions](https://github.com/LisaHusband/LeetCode_)  
-  My curated collection of accepted LeetCode solutions in C++/Python, organized by problem ID and category, with structured filenames and auto-synced updates.
+  My LeetCode High-Performance Solutions
 
 
 ---
