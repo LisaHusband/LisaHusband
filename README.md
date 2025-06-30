@@ -99,14 +99,9 @@
 
 ## 🌟 Featured Projects
 
-- 🎴 [Greeting Card Generator](https://github.com/LisaHusband/greeting-card)  
-  A web-based Valentine’s Day greeting card platform supporting custom text, color themes, visual effects, background music, and unique shareable links.
+- 🧠 [LeetCode Solutions](https://github.com/LisaHusband/LeetCode_)  
+  A curated collection of accepted LeetCode solutions in C++/Python, organized by problem ID and category, with structured filenames and auto-synced updates.
 
-- 🎶 [Lyrics Scraper](https://github.com/LisaHusband/Crawling)  
-  A multi-threaded lyric crawler with a PyQt6 GUI. Automatically retrieves and stores lyrics categorized by artist name.
-
-- 📱 [BMI Calculator](https://github.com/LisaHusband/BMI_Calculator)  
-  A lightweight Android app that calculates and displays BMI based on user-input height and weight.
 
 ---
 
