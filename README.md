@@ -100,7 +100,7 @@
 ## 🌟 Featured Projects
 
 - 🧠 [LeetCode Solutions](https://github.com/LisaHusband/LeetCode_)  
-  My LeetCode High-Performance Solutions
+   LeetCode High-Performance Solutions
 
 
 ---
