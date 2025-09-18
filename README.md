@@ -86,14 +86,7 @@
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat "Pytest Framework")
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium "Selenium")
 
----
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=LisaHusband&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LisaHusband&layout=compact&theme=tokyonight" />
-</div>
 
 ---
 
